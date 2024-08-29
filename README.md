@@ -8,3 +8,4 @@
 2. Never use root account
 3. Create new account at IAM - Users, Check "provide user access to AWS Console", Create Admin Group and Assign AdministratorAccess Policy, Setup MFA through "Authy"
 4. Add permission for user Billing - root>Account>IAM User and Role Access to Billing > Activate
+5. Alert preference for AWS Free Tier - root>Account>Building Preference
